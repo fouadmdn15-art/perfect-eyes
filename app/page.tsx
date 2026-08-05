@@ -92,7 +92,7 @@ export default function Home() {
     </header>
 
     <section className="hero" id="home">
-      <video className="heroVideo" autoPlay muted loop playsInline poster="/images/D8F7B5E6-24D4-4905-94D3-C495B46926AF.jpeg"><source src={videoUrl} type="video/mp4"/></video>
+      <video className="heroVideo" autoPlay muted loop playsInline poster="https://images.pexels.com/photos/5621864/pexels-photo-5621864.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1920"><source src={videoUrl} type="video/mp4"/></video>
       <div className="heroOverlay"/><div className="blueGlow"/><div className="grain"/>
       <div className="heroContent"><p className="badge"><i/>{t.badge}</p><h1>{t.title}</h1><p className="heroLead">{t.intro}</p><div className="actions"><a className="btn primary" href={whatsappUrl} target="_blank" rel="noreferrer"><WhatsAppIcon/>{t.book}</a><a className="btn ghost" href="#collections">{t.explore}</a></div></div>
       <div className="heroStats">{t.stats.map(s=><div key={s[1]}><strong>{s[0]}</strong><span>{s[1]}</span></div>)}</div><span className="scrollCue">SCROLL <i/></span>
