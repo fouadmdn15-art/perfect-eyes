@@ -77,3 +77,13 @@ footer{padding-right:150px}footer img{width:170px;height:70px}.footerSocials{dis
 [dir="rtl"] .serviceBody{text-align:right}
 @media(max-width:980px){.expertise .service{min-height:0;border:1px solid var(--line)!important}.serviceImage{height:260px}}
 @media(max-width:620px){.expertise .serviceGrid{gap:16px}.expertise .service{padding:0}.serviceImage{height:215px}.serviceBody{padding:22px 21px 25px}}
+
+/* Pexels editorial imagery replaces the former social-media screenshots. */
+.collection .visualOne{
+  background-image:linear-gradient(#08203418,#08203418),url('https://images.pexels.com/photos/5621864/pexels-photo-5621864.jpeg?auto=compress&fit=crop&w=1600&q=86');
+  background-position:42% center;
+}
+.collection .visualTwo{
+  background-image:url('https://images.pexels.com/photos/5201989/pexels-photo-5201989.jpeg?auto=compress&fit=crop&w=1200&q=86');
+  background-position:center 38%;
+}
