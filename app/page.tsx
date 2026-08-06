@@ -8,7 +8,7 @@ const copy = {
   fr: {
     nav: ["Accueil", "Expertise", "Collections", "Avis", "Contact"],
     badge: "Optique contemporaine · Témara",
-    title: <>La précision pour vos yeux.<br/><em>Le style pour vous.</em></>,
+    title: <>Votre regard mérite l’excellence.<br/><em>Le style pour vous.</em></>,
     intro: "Examen de la vue, montures de caractère et conseils personnalisés — une expérience optique pensée dans les moindres détails.",
     book: "Prendre rendez-vous", explore: "Explorer la collection",
     stats: [["5.0", "Note Google"], ["55+", "Avis clients"], ["3", "Expertises"]],
@@ -22,7 +22,7 @@ const copy = {
   },
   ar: {
     nav: ["الرئيسية", "خبرتنا", "المجموعات", "الآراء", "تواصل معنا"], badge: "بصريات عصرية · تمارة",
-    title: <>الدقة لعينيك.<br/><em>والأناقة لك.</em></>, intro: "فحص النظر، إطارات مميزة ونصائح شخصية — تجربة بصرية مدروسة في أدق التفاصيل.",
+    title: <>نظرتك تستحق التميّز.<br/><em>والأناقة لك.</em></>, intro: "فحص النظر، إطارات مميزة ونصائح شخصية — تجربة بصرية مدروسة في أدق التفاصيل.",
     book: "احجز موعداً", explore: "اكتشف المجموعة", stats: [["5.0", "تقييم Google"], ["+55", "رأي زبون"], ["3", "تخصصات"]],
     expertise: "خبرة تغيّر نظرتك", expertiseSub: "الدقة، حسن الاستماع والأناقة في فضاء واحد.",
     services: [["01", "فحص النظر", "قياس دقيق لاختيار التصحيح الأنسب لعينيك."], ["02", "نظارات طبية وشمسية", "موديلات عصرية مختارة للأناقة والراحة والجودة."], ["03", "العدسات اللاصقة", "ملاءمة ونصائح ومتابعة شخصية لراحة يومية."]],
@@ -33,7 +33,7 @@ const copy = {
   },
   en: {
     nav: ["Home", "Expertise", "Collections", "Reviews", "Contact"], badge: "Contemporary optics · Temara",
-    title: <>Precision for your eyes.<br/><em>Style for you.</em></>, intro: "Eye examinations, distinctive frames and personal advice — an optical experience considered down to the finest detail.",
+    title: <>Your vision deserves excellence.<br/><em>Style for you.</em></>, intro: "Eye examinations, distinctive frames and personal advice — an optical experience considered down to the finest detail.",
     book: "Book an appointment", explore: "Explore the collection", stats: [["5.0", "Google rating"], ["55+", "Customer reviews"], ["3", "Areas of expertise"]],
     expertise: "Expertise that changes your outlook", expertiseSub: "Precision, listening and style — all in one space.",
     services: [["01", "Eye examination", "Attentive, precise measurement for a correction made for you."], ["02", "Frames & sunglasses", "Contemporary models selected for style, comfort and quality."], ["03", "Contact lenses", "Fitting, advice and personal follow-up for everyday freedom."]],
